@@ -1,0 +1,3 @@
+[submodule "MyraniumDnDTimer"]
+	path = MyraniumDnDTimer
+	url = https://github.com/Shivion/MyraniumDnDTimer.git
