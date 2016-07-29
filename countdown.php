@@ -19,7 +19,7 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2">
 						<div class="well">
-							<h2 id=countdown>Script is Probably Still Loading</h2></div>
+							<h2 id=countdown>Script is Probably Still Loading</h2>
 						</div>
 					</div>
 				</div>
