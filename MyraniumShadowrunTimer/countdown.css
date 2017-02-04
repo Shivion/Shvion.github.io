@@ -1,0 +1,13 @@
+div.body{
+	position:relative;
+	top:100px;
+}
+
+h1,h2{
+	text-align:center;
+}
+
+label{
+	text-align:center;
+	display:block;
+}
