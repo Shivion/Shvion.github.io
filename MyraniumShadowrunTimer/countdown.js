@@ -18,7 +18,7 @@ function update() {
 	var countdown = document.getElementById("countdown");
 	var nextSessionElement = document.getElementById("nextSession");
 	var currentTime = new Date();
-	var day = "5"; //Friday for me (CST)
+	var day = "2"; //Friday for me (CST)
 	var hour = "04"; //10pm
 	var minute = "00";
 	var nextSession = new Date();
