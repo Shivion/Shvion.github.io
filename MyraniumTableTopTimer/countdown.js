@@ -19,7 +19,7 @@ function update() {
 	var nextSessionElement = document.getElementById("nextSession");
 	var currentTime = new Date();
 	var day = "4"; //Thursday for me (CST)
-	var hour = "03"; //10pm
+	var hour = "02"; //9pm
 	var minute = "00";
 	var nextSession = new Date();
 	nextSession.setUTCHours(hour);
